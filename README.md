@@ -41,6 +41,7 @@ npm install
 DATABASE_URL="postgresql://USER:PASSWORD@HOST:PORT/DATABASE?schema=public"
 npx prisma migrate dev
 npm run dev
+```
 
 
 This template outlines a README.md for FORMFORGE, covering key technologies, features, getting started instructions, contribution guidelines, and acknowledgements. Adjust the repository URL and any specific installation or configuration instructions based on your project's setup.
