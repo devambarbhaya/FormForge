@@ -10,8 +10,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PageForm (@CodeWithKliton)",
-  description: "Check my youtube channel for more content",
+  title: "FormForge",
+  description: "FormForge is a form builder for developers. It allows you to create forms and surveys with a simple drag and drop interface. It's perfect for developers who want to create forms and surveys without having to write any code. FormForge is built with React, Next.js, and Tailwind CSS. It's also fully customizable and easy to use. Get started for free today!",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
